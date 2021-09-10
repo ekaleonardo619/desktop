@@ -1,0 +1,7 @@
+{
+  "name": "Juleb Desktop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
